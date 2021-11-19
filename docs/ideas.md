@@ -21,3 +21,35 @@
 - Earths rising temperatures and a global polarity swap brings every major civilization to an end while mutating plant and animal life giving rise to small warring nations of evolved life in a post apocalyptic massively multiplayer crypto experience from the creators of multiple hit mobile games
 - Sect of people who went underground and meditated a lot and got super mind buddha powers like flying, jumping high, moving fast, being invisible, changing shape, heating up rocks, cutting through
 
+### Game system
+
+---
+
+# EABAish
+
+# Character
+ ## Traits
+  ### Strengths
+  ### Weaknesses
+   - Lame
+  ### Age
+   - Mature
+  ### Motivation
+   - Finding treasure
+   - Fighting injustice
+   - Winning glory
+   - Kicking ass
+  ### Personality
+   - Temper
+ ## Attributes
+ ## Skils
+
+ # Revise
+
+ # Character
+  ## Mental
+   ### Skills
+   ### Traits
+  ## Physical
+   ### Skills
+   ### Traits (conditions)
