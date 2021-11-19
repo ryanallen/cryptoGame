@@ -11,7 +11,8 @@ Define who will be working on this project and what will they be doing.
 
 | Name | Responsibility |
 | --- | --- |
-|  |  |
+| Henry | Dev / Design / Marketing / Male modeling|
+| Ryan | Design / Marketing / Web dev |
   
 ---
 ### Roadmap  
@@ -54,7 +55,7 @@ Scope your users' needs/problems [like this](https://www.uxpin.com/studio/blog/f
   
 ---
 ### Refined problem statement  
-In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${userGoal} & ${businessGoal}?
+In which way might we enable gamers to play multiplayer nft games with the same character?
   
 ---
 Next is [exploration](/dist/docs/exploration.md)

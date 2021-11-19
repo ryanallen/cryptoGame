@@ -6,11 +6,12 @@ Design Doc | [Discovery](/dist/docs/discovery.md) | [Exploration](/dist/docs/exp
 ## Team
 | Name | Responsibility |
 | --- | --- |
-|  |  |
+| Henry | Dev / Design / Marketing / Male modeling|
+| Ryan | Design / Marketing / Web dev |
 
 ---
 ## Problem statement
-In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${userGoal} & ${businessGoal}?
+In which way might we enable gamers to play multiplayer nft games with the same character?
 
 ---
 ## Hypotheses

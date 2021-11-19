@@ -4,7 +4,7 @@
 ---
 ## Ideation
 Keep the refined problem statement in mind when exploring solutions:  
-In which way might we enable ${user} to solve ${mainNeed1} & ${mainNeed2}, to ${userGoal} & ${businessGoal}?
+In which way might we enable gamers to play multiplayer nft games with the same character?
 
 ---
 ### Hypotheses
@@ -20,7 +20,7 @@ Drawings, surveys, flow charts, prototypes. UI, code repos, and more.
 
 | Date | Creator | Artifact |
 | --- | --- | --- |
-|  |  |  |
+| 11/18/2021 | Ryan  | [Role Playing Games Doc](/dist/docs/rolePlayingGames.md) |
   
 ---
 #### Solution brainstorm
