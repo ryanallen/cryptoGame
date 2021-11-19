@@ -15,8 +15,8 @@ ${problemStatement}
 ${hypotheses}
 
 ---
-## Final solution deliverables
-${finalSolutions}
+## Artifacts
+${artifacts}
 
 ---
 ## Learnings

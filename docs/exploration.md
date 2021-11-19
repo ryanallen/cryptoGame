@@ -14,12 +14,7 @@ ${hypotheses}
   
 ---
 ### Artifacts
-Drawings, surveys, flow charts, prototypes. UI, code repos, and more.  
-
-| Date | Creator | Artifact |
-| --- | --- | --- |
-| 11/18/2021 | Ryan  | [Role Playing Games Doc](/dist/docs/rolePlayingGames.md) |
-| 11/18/2021 | Ryan  | [Ideas](/dist/docs/ideas.md) |
+${artifacts}
   
 ---
 #### Solution brainstorm
