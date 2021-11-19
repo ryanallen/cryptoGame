@@ -12,6 +12,7 @@ Define who will be working on this project and what will they be doing.
 | Name | Responsibility |
 | --- | --- |
 | Henry | Dev / Design / Marketing / Male modeling|
+| Mark | Dev / Design / Tesla fact bot |
 | Ryan | Design / Marketing / Web dev |
   
 ---
